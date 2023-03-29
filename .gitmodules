@@ -1,0 +1,6 @@
+[submodule "eac"]
+	path = eac
+	url = https://github.com/kurulen/eac
+[submodule "blog"]
+	path = blog
+	url = https://github.com/kurulen/blog
